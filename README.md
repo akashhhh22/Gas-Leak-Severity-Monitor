@@ -27,8 +27,6 @@ severity via a traffic light LED module, a patterned buzzer alarm, and JSON logs
 
 This is the actual working prototype:
 
-![Circuit](images/circuit.jpg)
-
 ---
 
 ## 🧠 Gas Severity Logic
