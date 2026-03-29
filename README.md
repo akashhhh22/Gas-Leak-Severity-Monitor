@@ -1,6 +1,6 @@
 # ESP32 Gas Leak Detector (MQ2 + MQ135 + DHT11)
 
-## 🔧 Hardware Setup
+## Hardware Setup
 
 ![Circuit](images/circuit.jpg)
 
@@ -10,7 +10,7 @@ severity via a traffic light LED module, a patterned buzzer alarm, and JSON logs
 
 ---
 
-## 🚀 Features
+## Features
 
 - MQ2 (smoke / LPG / combustible gas) and MQ135 (air quality / CO2 / NH3)
 - DHT11 temperature & humidity sensing
@@ -23,13 +23,13 @@ severity via a traffic light LED module, a patterned buzzer alarm, and JSON logs
 
 ---
 
-## 📸 Real Hardware
+## Real Hardware
 
 This is the actual working prototype:
 
 ---
 
-## 🧠 Gas Severity Logic
+## Gas Severity Logic
 
 | Level    | LED Indicator | Description              |
 |----------|--------------|--------------------------|
@@ -40,7 +40,7 @@ This is the actual working prototype:
 
 ---
 
-## 🔌 Pin Mapping
+## Pin Mapping
 
 | Function      | GPIO |
 |--------------|------|
@@ -55,7 +55,7 @@ This is the actual working prototype:
 
 ---
 
-## 🛠️ Setup
+## Setup
 
 1. Install Arduino IDE
 2. Install ESP32 Board Package
@@ -65,7 +65,7 @@ This is the actual working prototype:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 .
